@@ -6,6 +6,9 @@ using **Stable-Baselines3**. It is also a debugging and model-improvement story:
 a step-by-step account of how an agent that scored 0 became one that clears
 hundreds of pipes.
 
+![The trained PPO agent mid-flight, score 3290](assets/gameplay.png)
+*The trained agent weaving through pipes — score visible in the top HUD.*
+
 ## Files
 
 | File | Purpose |
